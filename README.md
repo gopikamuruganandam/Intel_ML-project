@@ -12,3 +12,8 @@ Age	Estimated Salary	Purchased (Target)
 30	50000	              0
 40	70000	              1
 The target column "Purchased" is 1 if the customer bought the product and 0 otherwise.
+
+
+OUTPUT:
+Decision Tree Model Accuracy: 1.0
+Prediction for new customer: Not Purchased
