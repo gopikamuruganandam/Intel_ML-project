@@ -28,3 +28,13 @@ i)To develop a machine learning model using the Decision tree algorithm to class
 ii)To develop a machine learning model using the K th cluster algorithm to classify iris flowers into their respective species based on sepal and petal dimensions.
 iii)To develop a machine learning model using the Random forest algorithm to classify iris flowers into their respective species based on sepal and petal dimensions.
 
+
+OUTPUT:
+i) Decision Tree Model Accuracy: 1.00
+Prediction for new sample: virginica
+ii)Predicted Cluster: 0
+Prediction for new sample: setosa
+iii)Random Forest Model Accuracy: 1.00
+Prediction for new sample: virginica
+
+
